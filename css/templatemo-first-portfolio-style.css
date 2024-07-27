@@ -474,8 +474,8 @@ strong {
   /* background: var(--secondary-color); */
   /* background-color: rgb(77, 32, 32); */
   /* background: linear-gradient(red, black); */
-  /* background-color: green; */
-  background-image: url(/images/as.png);
+  background-color: green;
+  /* background-image: url(/images/as.png); */
   background-repeat: no-repeat/* tambah */;
   background-size: cover;
   position: relative;
